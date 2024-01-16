@@ -7,14 +7,14 @@ const Footer = () => {
     <footer className="footer-container">
       <div className="footer-content">
         <div className="contact-info">
-          <p>Email: ida.stjernborg@hotmail.com</p>
-          <p>Phone: +46 709545799</p>
+          <p>Email: perssonerik7@gmail.com</p>
+          <p>Phone: +46 722182577</p>
           <p>Location: Malmö, Sweden</p>
         </div>
 
         <div className="social-links">
           <a
-            href="https://www.linkedin.com/in/ida-stjernborg-62796b222/"
+            href="https://www.linkedin.com/in/erik-persson-081128222/"
             target="_blank"
             rel="noopener noreferrer"
           >

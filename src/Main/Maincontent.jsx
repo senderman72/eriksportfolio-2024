@@ -10,8 +10,8 @@ const MainContent = () => {
 
       <div className="balls">
         <div className="ball-a">Learn</div>
-        <div className="ball-b">Lead</div>
-        <div className="ball-c">Grow</div>
+        <div className="ball-b">Grow</div>
+        <div className="ball-c">Dedication</div>
       </div>
       <header>
         <h1>Erik Persson</h1>

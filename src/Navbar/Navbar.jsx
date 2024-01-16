@@ -12,7 +12,7 @@ export default function Navbar() {
       <div>
         {" "}
         <a
-          href="https://www.linkedin.com/in/ida-stjernborg-62796b222/"
+          href="https://www.linkedin.com/in/erik-persson-081128222/"
           target="_blank"
           rel="noopener noreferrer"
         >

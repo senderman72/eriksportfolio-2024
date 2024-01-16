@@ -47,8 +47,8 @@
   -moz-box-shadow: 21px -4px 104px 10px rgba(99, 83, 28, 0.59);
 }
 .ball-b {
-  width: 100px;
-  height: 100px;
+  width: 130px;
+  height: 130px;
   background-color: rgba(161, 218, 62, 1);
   border-radius: 50%;
   display: flex;
@@ -60,8 +60,8 @@
   -moz-box-shadow: 21px -4px 104px 10px rgba(99, 83, 28, 0.59);
 }
 .ball-c {
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
   background-color: rgba(75, 175, 221, 1);
   border-radius: 50%;
   display: flex;

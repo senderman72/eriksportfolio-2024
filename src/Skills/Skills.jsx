@@ -4,18 +4,15 @@ import Skillspic from "../assets/Skillspic.jpg";
 
 export default function Skills() {
   const skills = [
-    "Recruitment and Staffing",
-    "Candidate Sourcing",
-    "Interviewing and Assessment",
-    "Talent Acquisition",
-    "Employee Onboarding",
-    "HR Policies and Compliance",
-    "Employment Law",
-    "Communication and Interpersonal Skills",
-    "Negotiation Skills",
-    "Data Analysis and Reporting",
-    "HR Software and Tools",
-    "Employee Relations",
+    "Javascript",
+    "React",
+    "NodeJS",
+    "API",
+    "CSS",
+    "SCSS",
+    "Material UI",
+    "express",
+    "MongoDB",
   ];
 
   return (

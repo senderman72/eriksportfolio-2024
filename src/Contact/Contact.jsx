@@ -12,12 +12,12 @@ export default function Contact() {
       <div className="contact-info">
         <div className="info-item">
           <span className="info-label">Email:</span>
-          <span>ida.stjernborg@hotmail.com</span>
+          <span>perssonerik7@gmail.com</span>
         </div>
 
         <div className="info-item">
           <span className="info-label">Phone:</span>
-          <span>+46-70 9545799</span>
+          <span>+46-72 2182577</span>
         </div>
 
         <div>
